@@ -1,0 +1,16 @@
+1.分离调用，将网页的各个部分分离开，调用，使代码更清晰整洁	require 调用 inc.php   	Problem has been solved
+
+2.怎么引用数据库文件				Problem has been solved
+
+3.实现数据按条件查询功能   按图形界面选择查询条件，点击buttun，执行。 
+
+4.利用什么方法查询mac地址、ip 类型    	Problem has been solved
+
+
+为什么我添加<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />后 includes/search.inc.php 显示的还是乱码啊 
+	修改一下编译器的字符编码。  Problem has been solved
+
+5.数据库查询出的表单怎么能分页显示  Problem has been solved 
+
+
+6.对表进行插入删除修改，界面怎么设计，比如 一个数据表对每行都添加一个按钮，怎么能做到点击这个按钮就是修改这一行的数据。
